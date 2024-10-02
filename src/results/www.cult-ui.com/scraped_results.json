@@ -1,0 +1,122 @@
+[
+    {
+        "h1": "AnimatedNumber",
+        "p": "A simple animated number animation",
+        "href": "https://www.cult-ui.com/docs/components/animated-number"
+    },
+    {
+        "h1": "BgAnimateButton",
+        "p": "A button with gradient and animation defaults",
+        "href": "https://www.cult-ui.com/docs/components/bg-animate-button"
+    },
+    {
+        "h1": "BgMedia",
+        "p": "A full screen background media component for videos or images",
+        "href": "https://www.cult-ui.com/docs/components/bg-media"
+    },
+    {
+        "h1": "Color Picker",
+        "p": "P Element not found.",
+        "href": "https://www.cult-ui.com/docs/components/color-picker"
+    },
+    {
+        "h1": "DirectionAwareTabs",
+        "p": "Tabs that animate direction correctly",
+        "href": "https://www.cult-ui.com/docs/components/direction-aware-tabs"
+    },
+    {
+        "h1": "DynamicIsland",
+        "p": "A do anything be anything component inspired by apples dynamic island",
+        "href": "https://www.cult-ui.com/docs/components/dynamic-island"
+    },
+    {
+        "h1": "FamilyButton",
+        "p": "Animated expansion inspired by Family",
+        "href": "https://www.cult-ui.com/docs/components/family-button"
+    },
+    {
+        "h1": "FloatingPanel",
+        "p": "A headless, composable floating panel component",
+        "href": "https://www.cult-ui.com/docs/components/floating-panel"
+    },
+    {
+        "h1": "GradientHeading",
+        "p": "A cool gradient heading component",
+        "href": "https://www.cult-ui.com/docs/components/gradient-heading"
+    },
+    {
+        "h1": "MinimalCard",
+        "p": "A minimal image card",
+        "href": "https://www.cult-ui.com/docs/components/minimal-card"
+    },
+    {
+        "h1": "Popover",
+        "p": "A headless popover animation component with customizable options.",
+        "href": "https://www.cult-ui.com/docs/components/popover"
+    },
+    {
+        "h1": "ShiftCard",
+        "p": "A card that shows more detail on hover",
+        "href": "https://www.cult-ui.com/docs/components/shift-card"
+    },
+    {
+        "h1": "SidePanel",
+        "p": "A side panel that triggers an expansion animation. Useful for video components or learn more etc.",
+        "href": "https://www.cult-ui.com/docs/components/side-panel"
+    },
+    {
+        "h1": "SortableList",
+        "p": "An animated sortable list",
+        "href": "https://www.cult-ui.com/docs/components/sortable-list"
+    },
+    {
+        "h1": "TextAnimate",
+        "p": "A framer motion text animation component",
+        "href": "https://www.cult-ui.com/docs/components/text-animate"
+    },
+    {
+        "h1": "TextureButton",
+        "p": "A button with numorphic undertones",
+        "href": "https://www.cult-ui.com/docs/components/texture-button"
+    },
+    {
+        "h1": "TextureCard",
+        "p": "A well designed card with numorphic undertones",
+        "href": "https://www.cult-ui.com/docs/components/texture-card"
+    },
+    {
+        "h1": "3D Carousel",
+        "p": "A 3D image carousel",
+        "href": "https://www.cult-ui.com/docs/components/three-d-carousel"
+    },
+    {
+        "h1": "LightBoard",
+        "p": "A fun lightboard component used to display moving text and draw in a visually appealing way.",
+        "href": "https://www.cult-ui.com/docs/components/lightboard"
+    },
+    {
+        "h1": "Dock",
+        "p": "An interactive dock component inspired by macOS dock with animation capabilities.",
+        "href": "https://www.cult-ui.com/docs/components/dock"
+    },
+    {
+        "h1": "FractalDotGrid",
+        "p": "An interactive canvas fractal dot grid component to add dynamic visual interest to your UI.",
+        "href": "https://www.cult-ui.com/docs/components/bg-animated-fractal-grid"
+    },
+    {
+        "h1": "ShaderLensBlur",
+        "p": "blur go brr",
+        "href": "https://www.cult-ui.com/docs/components/shader-lens-blur"
+    },
+    {
+        "h1": "Tweet Grid",
+        "p": "A masonry grid full of tweets",
+        "href": "https://www.cult-ui.com/docs/components/tweet-grid"
+    },
+    {
+        "h1": "Typewriter",
+        "p": "A repeating typewriter effect",
+        "href": "https://www.cult-ui.com/docs/components/typewriter"
+    }
+]

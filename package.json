@@ -1,0 +1,16 @@
+{
+  "name": "atomit-elements",
+  "module": "src",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@types/jsdom": "^21.1.7",
+    "axios": "^1.7.7",
+    "jsdom": "^25.0.1"
+  }
+}

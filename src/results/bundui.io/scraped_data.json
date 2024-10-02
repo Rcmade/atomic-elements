@@ -1,0 +1,34 @@
+[
+    {
+        "text": "Button",
+        "href": "/docs/components/button"
+    },
+    {
+        "text": "Animated Gradient Text",
+        "href": "/docs/components/animated-gradient-text"
+    },
+    {
+        "text": "Count Animation",
+        "href": "/docs/components/count-animation"
+    },
+    {
+        "text": "Floating Button",
+        "href": "/docs/components/floating-button"
+    },
+    {
+        "text": "Magnetic Button",
+        "href": "/docs/components/magnetic-button"
+    },
+    {
+        "text": "Text Gradient ScrollNew",
+        "href": "/docs/components/text-gradient-scroll"
+    },
+    {
+        "text": "Scroll Progress BarNew",
+        "href": "/docs/components/scroll-progress-bar"
+    },
+    {
+        "text": "Marquee Effect",
+        "href": "/docs/components/marquee-effect"
+    }
+]

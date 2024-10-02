@@ -1,0 +1,98 @@
+[
+    {
+        "text": "Components",
+        "href": "/components"
+    },
+    {
+        "text": "Templates",
+        "href": "/templates"
+    },
+    {
+        "text": "Introduction",
+        "href": "/components/introduction"
+    },
+    {
+        "text": "Accordion",
+        "href": "/components/accordion"
+    },
+    {
+        "text": "Account",
+        "href": "/components/account"
+    },
+    {
+        "text": "Animated  Chart",
+        "href": "/components/animated-chart"
+    },
+    {
+        "text": "Animated  Grid  Background",
+        "href": "/components/animated-grid-background"
+    },
+    {
+        "text": "Animated  Pricing  Component",
+        "href": "/components/animated-pricing-component"
+    },
+    {
+        "text": "Background  Grid  Beam",
+        "href": "/components/background-grid-beam"
+    },
+    {
+        "text": "Background  Lights",
+        "href": "/components/background-lights"
+    },
+    {
+        "text": "Copy  To  Clipboard",
+        "href": "/components/copy-to-clipboard"
+    },
+    {
+        "text": "Custom  Cursor",
+        "href": "/components/custom-cursor"
+    },
+    {
+        "text": "Dropdown  Menu",
+        "href": "/components/dropdown-menu"
+    },
+    {
+        "text": "Feedback",
+        "href": "/components/feedback"
+    },
+    {
+        "text": "Figma  Cursor",
+        "href": "/components/figma-cursor"
+    },
+    {
+        "text": "Image  Swiper",
+        "href": "/components/image-swiper"
+    },
+    {
+        "text": "Link",
+        "href": "/components/link"
+    },
+    {
+        "text": "Marquee",
+        "href": "/components/marquee"
+    },
+    {
+        "text": "Maxed  Seo",
+        "href": "/components/maxed-seo"
+    },
+    {
+        "text": "Mock  Browser",
+        "href": "/components/mock-browser"
+    },
+    {
+        "text": "Pricing",
+        "href": "/components/pricing"
+    },
+    {
+        "text": "Side  Menu  Button",
+        "href": "/components/side-menu-button"
+    },
+    {
+        "text": "Skeleton",
+        "href": "/components/skeleton"
+    },
+    {
+        "text": "Tab  List",
+        "href": "/components/tab-list"
+    }
+]

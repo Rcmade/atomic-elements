@@ -1,0 +1,592 @@
+[
+    {
+        "h1": "Accordion",
+        "p": "A vertically stacked set of interactive headings that each reveal a section of content.",
+        "href": "https://nyxbui.design/docs/components/accordion"
+    },
+    {
+        "h1": "Alert",
+        "p": "Displays a callout for user attention.",
+        "href": "https://nyxbui.design/docs/components/alert"
+    },
+    {
+        "h1": "Alert Dialog",
+        "p": "A modal dialog that interrupts the user with important content and expects a response.",
+        "href": "https://nyxbui.design/docs/components/alert-dialog"
+    },
+    {
+        "h1": "Animated List",
+        "p": "A list that animates each item in sequence with a delay. Used to showcase notifications or events on your landing page.",
+        "href": "https://nyxbui.design/docs/components/animated-list"
+    },
+    {
+        "h1": "Aspect Ratio",
+        "p": "Displays content within a desired ratio.",
+        "href": "https://nyxbui.design/docs/components/aspect-ratio"
+    },
+    {
+        "h1": "Avatar",
+        "p": "An image element with a fallback for representing the user.",
+        "href": "https://nyxbui.design/docs/components/avatar"
+    },
+    {
+        "h1": "Avatar Circles",
+        "p": "Overlapping circles of avatars.",
+        "href": "https://nyxbui.design/docs/components/avatar-circles"
+    },
+    {
+        "h1": "Badge",
+        "p": "Displays a badge or a component that looks like a badge.",
+        "href": "https://nyxbui.design/docs/components/badge"
+    },
+    {
+        "h1": "Bento Grid",
+        "p": "Bento grid is a layout used to showcase the features of a product in a simple and elegant way.",
+        "href": "https://nyxbui.design/docs/components/bento-grid"
+    },
+    {
+        "h1": "Breadcrumb",
+        "p": "Displays the path to the current resource using a hierarchy of links.",
+        "href": "https://nyxbui.design/docs/components/breadcrumb"
+    },
+    {
+        "h1": "Calendar",
+        "p": "A date field component that allows users to enter and edit date.",
+        "href": "https://nyxbui.design/docs/components/calendar"
+    },
+    {
+        "h1": "Card",
+        "p": "Displays a card with header, content, and footer.",
+        "href": "https://nyxbui.design/docs/components/card"
+    },
+    {
+        "h1": "Carousel",
+        "p": "A carousel with motion and swipe built using Embla.",
+        "href": "https://nyxbui.design/docs/components/carousel"
+    },
+    {
+        "h1": "Checkbox",
+        "p": "A control that allows the user to toggle between checked and not checked.",
+        "href": "https://nyxbui.design/docs/components/checkbox"
+    },
+    {
+        "h1": "Collapsible",
+        "p": "An interactive component which expands/collapses a panel.",
+        "href": "https://nyxbui.design/docs/components/collapsible"
+    },
+    {
+        "h1": "Combobox",
+        "p": "Autocomplete input and command palette with a list of suggestions.",
+        "href": "https://nyxbui.design/docs/components/combobox"
+    },
+    {
+        "h1": "Command",
+        "p": "Fast, composable, unstyled command menu for React.",
+        "href": "https://nyxbui.design/docs/components/command"
+    },
+    {
+        "h1": "Context Menu",
+        "p": "Displays a menu to the user — such as a set of actions or functions — triggered by a button.",
+        "href": "https://nyxbui.design/docs/components/context-menu"
+    },
+    {
+        "h1": "Data Table",
+        "p": "Powerful table and datagrids built using TanStack Table.",
+        "href": "https://nyxbui.design/docs/components/data-table"
+    },
+    {
+        "h1": "Date Picker",
+        "p": "A date picker component with range and presets.",
+        "href": "https://nyxbui.design/docs/components/date-picker"
+    },
+    {
+        "h1": "Dialog",
+        "p": "A window overlaid on either the primary window or another dialog window, rendering the content underneath inert.",
+        "href": "https://nyxbui.design/docs/components/dialog"
+    },
+    {
+        "h1": "Dock",
+        "p": "An implementation of the MacOS dock using react + tailwindcss + framer motion",
+        "href": "https://nyxbui.design/docs/components/dock"
+    },
+    {
+        "h1": "Drawer",
+        "p": "A drawer component for React.",
+        "href": "https://nyxbui.design/docs/components/drawer"
+    },
+    {
+        "h1": "Dropdown Menu",
+        "p": "Displays a menu to the user — such as a set of actions or functions — triggered by a button.",
+        "href": "https://nyxbui.design/docs/components/dropdown-menu"
+    },
+    {
+        "h1": "React Hook Form",
+        "p": "Building forms with React Hook Form and Zod.",
+        "href": "https://nyxbui.design/docs/components/form"
+    },
+    {
+        "h1": "Gauge Circle",
+        "p": "Gauge Circle is a component that displays a circular gauge with a percentage value.",
+        "href": "https://nyxbui.design/docs/components/gauge-circle"
+    },
+    {
+        "h1": "Globe",
+        "p": "An autorotating, interactive, and highly performant globe made using WebGL.",
+        "href": "https://nyxbui.design/docs/components/globe"
+    },
+    {
+        "h1": "Hover Card",
+        "p": "For sighted users to preview content available behind a link.",
+        "href": "https://nyxbui.design/docs/components/hover-card"
+    },
+    {
+        "h1": "Input",
+        "p": "Displays a form input field or a component that looks like an input field.",
+        "href": "https://nyxbui.design/docs/components/input"
+    },
+    {
+        "h1": "Input OTP",
+        "p": "Accessible one-time password component with copy paste functionality.",
+        "href": "https://nyxbui.design/docs/components/input-otp"
+    },
+    {
+        "h1": "Input Phone",
+        "p": "This component provides phone number input based on the selected country.",
+        "href": "https://nyxbui.design/docs/components/input-phone"
+    },
+    {
+        "h1": "Interactive Icon Cloud",
+        "p": "An interactive 3D tag cloud component",
+        "href": "https://nyxbui.design/docs/components/icon-cloud"
+    },
+    {
+        "h1": "Label",
+        "p": "Renders an accessible label associated with controls.",
+        "href": "https://nyxbui.design/docs/components/label"
+    },
+    {
+        "h1": "Marquee",
+        "p": "An infinite scrolling component that can be used to display text, images, or videos.",
+        "href": "https://nyxbui.design/docs/components/marquee"
+    },
+    {
+        "h1": "Menubar",
+        "p": "A visually persistent menu common in desktop applications that provides quick access to a consistent set of commands.",
+        "href": "https://nyxbui.design/docs/components/menubar"
+    },
+    {
+        "h1": "Multi Select",
+        "p": "Displays a list of options for the user to pick from—triggered by a button.",
+        "href": "https://nyxbui.design/docs/components/multi-select"
+    },
+    {
+        "h1": "Navigation Menu",
+        "p": "A collection of links for navigating websites.",
+        "href": "https://nyxbui.design/docs/components/navigation-menu"
+    },
+    {
+        "h1": "Orbiting Circles",
+        "p": "A collection of circles which move in orbit along a circular path",
+        "href": "https://nyxbui.design/docs/components/orbiting-circles"
+    },
+    {
+        "h1": "Pagination",
+        "p": "Pagination with page navigation, next and previous links.",
+        "href": "https://nyxbui.design/docs/components/pagination"
+    },
+    {
+        "h1": "Popover",
+        "p": "Displays rich content in a portal, triggered by a button.",
+        "href": "https://nyxbui.design/docs/components/popover"
+    },
+    {
+        "h1": "Progress",
+        "p": "Displays an indicator showing the completion progress of a task, typically displayed as a progress bar.",
+        "href": "https://nyxbui.design/docs/components/progress"
+    },
+    {
+        "h1": "Radio Group",
+        "p": "A set of checkable buttons—known as radio buttons—where no more than one of the buttons can be checked at a time.",
+        "href": "https://nyxbui.design/docs/components/radio-group"
+    },
+    {
+        "h1": "Resizable",
+        "p": "Accessible resizable panel groups and layouts with keyboard support.",
+        "href": "https://nyxbui.design/docs/components/resizable"
+    },
+    {
+        "h1": "Scroll-area",
+        "p": "Augments native scroll functionality for custom, cross-browser styling.",
+        "href": "https://nyxbui.design/docs/components/scroll-area"
+    },
+    {
+        "h1": "Scroll Progress",
+        "p": "Animated Scroll Progress for your pages",
+        "href": "https://nyxbui.design/docs/components/scroll-progress"
+    },
+    {
+        "h1": "Scratch To Reveal",
+        "p": "The ScratchToReveal component creates an interactive scratch-off effect with customizable dimensions and animations, revealing hidden content beneath.",
+        "href": "https://nyxbui.design/docs/components/scratch-to-reveal"
+    },
+    {
+        "h1": "Select",
+        "p": "Displays a list of options for the user to pick from—triggered by a button.",
+        "href": "https://nyxbui.design/docs/components/select"
+    },
+    {
+        "h1": "Separator",
+        "p": "Visually or semantically separates content.",
+        "href": "https://nyxbui.design/docs/components/separator"
+    },
+    {
+        "h1": "Sheet",
+        "p": "Extends the Dialog component to display content that complements the main content of the screen.",
+        "href": "https://nyxbui.design/docs/components/sheet"
+    },
+    {
+        "h1": "Skeleton",
+        "p": "Use to show a placeholder while content is loading.",
+        "href": "https://nyxbui.design/docs/components/skeleton"
+    },
+    {
+        "h1": "Slider",
+        "p": "An input where the user selects a value from within a given range.",
+        "href": "https://nyxbui.design/docs/components/slider"
+    },
+    {
+        "h1": "Sonner",
+        "p": "An opinionated toast component for React.",
+        "href": "https://nyxbui.design/docs/components/sonner"
+    },
+    {
+        "h1": "Star rating",
+        "p": "Use to show ratings of products as well as taking input for rating",
+        "href": "https://nyxbui.design/docs/components/star-rating"
+    },
+    {
+        "h1": "Stepper",
+        "p": "Display content divided into a steps sequence.",
+        "href": "https://nyxbui.design/docs/components/stepper"
+    },
+    {
+        "h1": "Switch",
+        "p": "A control that allows the user to toggle between checked and not checked.",
+        "href": "https://nyxbui.design/docs/components/switch"
+    },
+    {
+        "h1": "Table",
+        "p": "A responsive table component.",
+        "href": "https://nyxbui.design/docs/components/table"
+    },
+    {
+        "h1": "Tabs",
+        "p": "A set of layered sections of content—known as tab panels—that are displayed one at a time.",
+        "href": "https://nyxbui.design/docs/components/tabs"
+    },
+    {
+        "h1": "Textarea",
+        "p": "Displays a form textarea or a component that looks like a textarea.",
+        "href": "https://nyxbui.design/docs/components/textarea"
+    },
+    {
+        "h1": "Timeline",
+        "p": "Displays a list of events in chronological order.",
+        "href": "https://nyxbui.design/docs/components/timeline"
+    },
+    {
+        "h1": "Toast",
+        "p": "A succinct message that is displayed temporarily.",
+        "href": "https://nyxbui.design/docs/components/toast"
+    },
+    {
+        "h1": "Table of Contents",
+        "p": "A list for the content of a document.",
+        "href": "https://nyxbui.design/docs/components/toc"
+    },
+    {
+        "h1": "Toggle",
+        "p": "A two-state button that can be either on or off.",
+        "href": "https://nyxbui.design/docs/components/toggle"
+    },
+    {
+        "h1": "Toggle Group",
+        "p": "A set of two-state buttons that can be toggled on or off.",
+        "href": "https://nyxbui.design/docs/components/toggle-group"
+    },
+    {
+        "h1": "Tooltip",
+        "p": "A popup that displays information related to an element when the element receives keyboard focus or the mouse hovers over it.",
+        "href": "https://nyxbui.design/docs/components/tooltip"
+    },
+    {
+        "h1": "Tour",
+        "p": "An overlay that outlines provided refs for touring an application.",
+        "href": "https://nyxbui.design/docs/components/tour"
+    },
+    {
+        "h1": "Tweet Card",
+        "p": "A card that displays a tweet with the author's name, handle, and profile picture.",
+        "href": "https://nyxbui.design/docs/components/tweet-card"
+    },
+    {
+        "h1": "Video Modal",
+        "p": "Example component for demonstrating Video Modal component",
+        "href": "https://nyxbui.design/docs/components/video-modal"
+    },
+    {
+        "h1": "Marquee",
+        "p": "An infinite scrolling component that can be used to display text, images, or videos.",
+        "href": "https://nyxbui.design/docs/components/marquee"
+    },
+    {
+        "h1": "Bento Grid",
+        "p": "Bento grid is a layout used to showcase the features of a product in a simple and elegant way.",
+        "href": "https://nyxbui.design/docs/components/bento-grid"
+    },
+    {
+        "h1": "Animated List",
+        "p": "A list that animates each item in sequence with a delay. Used to showcase notifications or events on your landing page.",
+        "href": "https://nyxbui.design/docs/components/animated-list"
+    },
+    {
+        "h1": "Dock",
+        "p": "An implementation of the MacOS dock using react + tailwindcss + framer motion",
+        "href": "https://nyxbui.design/docs/components/dock"
+    },
+    {
+        "h1": "Globe",
+        "p": "An autorotating, interactive, and highly performant globe made using WebGL.",
+        "href": "https://nyxbui.design/docs/components/globe"
+    },
+    {
+        "h1": "Tweet Card",
+        "p": "A card that displays a tweet with the author's name, handle, and profile picture.",
+        "href": "https://nyxbui.design/docs/components/tweet-card"
+    },
+    {
+        "h1": "Orbiting Circles",
+        "p": "A collection of circles which move in orbit along a circular path",
+        "href": "https://nyxbui.design/docs/components/orbiting-circles"
+    },
+    {
+        "h1": "Avatar Circles",
+        "p": "Overlapping circles of avatars.",
+        "href": "https://nyxbui.design/docs/components/avatar-circles"
+    },
+    {
+        "h1": "Interactive Icon Cloud",
+        "p": "An interactive 3D tag cloud component",
+        "href": "https://nyxbui.design/docs/components/icon-cloud"
+    },
+    {
+        "h1": "Animated Beam",
+        "p": "An animated beam of light which travels along a path. Useful for showcasing the \"integration\" features of a website.",
+        "href": "https://nyxbui.design/docs/components/animated-beam"
+    },
+    {
+        "h1": "Border Beam",
+        "p": "An animated beam of light which travels along the border of its container.",
+        "href": "https://nyxbui.design/docs/components/border-beam"
+    },
+    {
+        "h1": "Shine Border",
+        "p": "Shine border is an animated background border effect.",
+        "href": "https://nyxbui.design/docs/components/shine-border"
+    },
+    {
+        "h1": "Magic Card",
+        "p": "A spotlight effect that follows your mouse cursor and highlights borders on hover.",
+        "href": "https://nyxbui.design/docs/components/magic-card"
+    },
+    {
+        "h1": "Meteors",
+        "p": "A meteor shower effect.",
+        "href": "https://nyxbui.design/docs/components/meteors"
+    },
+    {
+        "h1": "Neon Gradient Card",
+        "p": "A beautiful neon card effect",
+        "href": "https://nyxbui.design/docs/components/neon-gradient-card"
+    },
+    {
+        "h1": "Confetti",
+        "p": "Confetti animations are best used to delight your users when something special happens",
+        "href": "https://nyxbui.design/docs/components/confetti"
+    },
+    {
+        "h1": "Particles",
+        "p": "Particles are a fun way to add some visual flair to your website. They can be used to create a sense of depth, movement, and interactivity.",
+        "href": "https://nyxbui.design/docs/components/particles"
+    },
+    {
+        "h1": "Cool Mode",
+        "p": "Cool mode effect for buttons, links, and other DOMs",
+        "href": "https://nyxbui.design/docs/components/cool-mode"
+    },
+    {
+        "h1": "Blur Fade",
+        "p": "Blur fade in and out animation. Used to smoothly fade in and out content.",
+        "href": "https://nyxbui.design/docs/components/blur-fade"
+    },
+    {
+        "h1": "File Tree",
+        "p": "A component used to showcase the folder and file structure of a directory.",
+        "href": "https://nyxbui.design/docs/components/file-tree"
+    },
+    {
+        "h1": "Number Ticker",
+        "p": "Animate numbers to count up or down to a target number",
+        "href": "https://nyxbui.design/docs/components/number-ticker"
+    },
+    {
+        "h1": "Animated Shiny Text",
+        "p": "A light glare effect which pans across text making it appear as if it is shimmering.",
+        "href": "https://nyxbui.design/docs/components/animated-shiny-text"
+    },
+    {
+        "h1": "Animated Gradient Text",
+        "p": "An animated gradient background which transitions between colors for text.",
+        "href": "https://nyxbui.design/docs/components/animated-gradient-text"
+    },
+    {
+        "h1": "Text Reveal",
+        "p": "Fade in text as you scroll down the page.",
+        "href": "https://nyxbui.design/docs/components/text-reveal"
+    },
+    {
+        "h1": "Word Rotate",
+        "p": "An vertical rotation of words",
+        "href": "https://nyxbui.design/docs/components/word-rotate"
+    },
+    {
+        "h1": "Typing Animation",
+        "p": "Characters appearing in typed animation",
+        "href": "https://nyxbui.design/docs/components/typing-animation"
+    },
+    {
+        "h1": "Wavy Text",
+        "p": "An animated text component that staggers text up",
+        "href": "https://nyxbui.design/docs/components/wavy-text"
+    },
+    {
+        "h1": "Blur In",
+        "p": "An animated text component that blurs in the text.",
+        "href": "https://nyxbui.design/docs/components/blur-in"
+    },
+    {
+        "h1": "Separate Away",
+        "p": "Vertical separation of words",
+        "href": "https://nyxbui.design/docs/components/separate-away"
+    },
+    {
+        "h1": "Scroll Based Velocity",
+        "p": "Scrolling text whose speed changes based on scroll speed",
+        "href": "https://nyxbui.design/docs/components/scroll-based-velocity"
+    },
+    {
+        "h1": "Staggered Letter Pull Up Animation",
+        "p": "Staggered letter pull up text animation.",
+        "href": "https://nyxbui.design/docs/components/letter-pullup"
+    },
+    {
+        "h1": "Word Pull Up",
+        "p": "Text animation for words to pull up",
+        "href": "https://nyxbui.design/docs/components/word-pull-up"
+    },
+    {
+        "h1": "Flip Text",
+        "p": "Text flipping character animation",
+        "href": "https://nyxbui.design/docs/components/flip-text"
+    },
+    {
+        "h1": "Gradual Spacing",
+        "p": "Word animation for gradual spacing between letters",
+        "href": "https://nyxbui.design/docs/components/gradual-spacing"
+    },
+    {
+        "h1": "Word Fade In",
+        "p": "Text animation which fades in word by word",
+        "href": "https://nyxbui.design/docs/components/word-fade-in"
+    },
+    {
+        "h1": "Fade Text",
+        "p": "Characters appearing from faded view",
+        "href": "https://nyxbui.design/docs/components/fade-text"
+    },
+    {
+        "h1": "Box Reveal Animation",
+        "p": "Sliding box animation that reveals text behind it.",
+        "href": "https://nyxbui.design/docs/components/box-reveal"
+    },
+    {
+        "h1": "Sparkles Text",
+        "p": "A dynamic text that generates continuous sparkles with smooth transitions, perfect for highlighting text with animated stars.",
+        "href": "https://nyxbui.design/docs/components/sparkles-text"
+    },
+    {
+        "h1": "Button",
+        "p": "Displays a button or a component that looks like a button.",
+        "href": "https://nyxbui.design/docs/components/button"
+    },
+    {
+        "h1": "Shimmer Button",
+        "p": "A button with a shimmering light which travels around the perimeter.",
+        "href": "https://nyxbui.design/docs/components/shimmer-button"
+    },
+    {
+        "h1": "Shiny Button",
+        "p": "A shiny button component with dynamic styles in the dark mode or light mode.",
+        "href": "https://nyxbui.design/docs/components/shiny-button"
+    },
+    {
+        "h1": "Animated Subscribe Button",
+        "p": "An animated subscribe button useful for showing a micro animation from intial to final result.",
+        "href": "https://nyxbui.design/docs/components/animated-subscribe-button"
+    },
+    {
+        "h1": "Pulsating Button",
+        "p": "An animated pulsating button useful for capturing attention of users.",
+        "href": "https://nyxbui.design/docs/components/pulsating-button"
+    },
+    {
+        "h1": "Animated Grid Pattern",
+        "p": "A animated background grid pattern made with SVGs, fully customizable using Tailwind CSS.",
+        "href": "https://nyxbui.design/docs/components/animated-grid-pattern"
+    },
+    {
+        "h1": "Retro Grid",
+        "p": "An animated scrolling retro grid effect",
+        "href": "https://nyxbui.design/docs/components/retro-grid"
+    },
+    {
+        "h1": "Ripple",
+        "p": "An animated ripple effect typically used behind elements to emphasize them.",
+        "href": "https://nyxbui.design/docs/components/ripple"
+    },
+    {
+        "h1": "Dot Pattern",
+        "p": "A background dot pattern made with SVGs, fully customizable using Tailwind CSS.",
+        "href": "https://nyxbui.design/docs/components/dot-pattern"
+    },
+    {
+        "h1": "Grid Pattern",
+        "p": "A background grid pattern made with SVGs, fully customizable using Tailwind CSS.",
+        "href": "https://nyxbui.design/docs/components/grid-pattern"
+    },
+    {
+        "h1": "Linear Gradient",
+        "p": "A linear gradient that can be used as a background for a component.",
+        "href": "https://nyxbui.design/docs/components/linear-gradient"
+    },
+    {
+        "h1": "Radial Gradient",
+        "p": "A circular gradient that can be used as a background for a component.",
+        "href": "https://nyxbui.design/docs/components/radial-gradient"
+    },
+    {
+        "h1": "Wavy Dot Pattern",
+        "p": "A background dot pattern that ripples when dots are clicked.",
+        "href": "https://nyxbui.design/docs/components/wavy-dot-pattern"
+    }
+]

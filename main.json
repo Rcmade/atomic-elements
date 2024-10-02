@@ -1,0 +1,303 @@
+{
+  "select": [
+    {
+      "h1": "Autocomplete component with Shadcn UI",
+      "p": "This is a demo of a custom autocomplete component built with Shadcn ui and Fancy Multi Select by Maximilian Kaske. Feel free to play around with it and customize it to your needs.",
+      "href": "https://www.armand-salle.fr/post/autocomplete-select-shadcn-ui/"
+    },
+    {
+      "h1": "Fancy Multi Select",
+      "p": "The Multi Select Component is inspired by campsite.design's and cal.com's settings forms.",
+      "href": "https://craft.mxkaske.dev/post/fancy-multi-select"
+    },
+    {
+      "h1": "shadcn-multi-select-component",
+      "p": " A multi-select component designed with shadcn/ui.",
+      "href": "https://github.com/sersavan/shadcn-multi-select-component"
+    }
+  ],
+  "switch": [
+    {
+      "h1": "Fancy Switch",
+      "p": "A fancy switch component built with shadcn/ui.",
+      "href": "https://github.com/Aslam97/react-fancy-switch"
+    }
+  ],
+  "form": [
+    {
+      "h1": "auto-form",
+      "p": "🌟 A React component that automatically creates a @shadcn/ui form based on a zod schema.",
+      "href": "https://github.com/vantezzen/auto-form"
+    }
+  ],
+  "button": [
+    {
+      "h1": "enhanced-button",
+      "p": "An enhanced version of the default shadcn-button component.",
+      "href": "https://github.com/jakobhoeg/enhanced-button"
+    }
+  ],
+  "input": [
+    {
+      "h1": "Capture-Photo",
+      "p": "Capture-Photo is a versatile, browser-based React component designed to streamline the integration of camera functionalities directly into your web applications.",
+      "href": "https://github.com/UretzkyZvi/capture-photo"
+    },
+    {
+      "h1": "emblor",
+      "p": " A highly customizable, accessible, and fully-featured tag input component built with shadcn/ui.",
+      "href": "https://github.com/JaleelB/emblor"
+    },
+
+    {
+      "h1": "Fancy Area",
+      "p": " The Textarea is inspired by GitHub's PR comment section. The impressive part is the @mention support including hover cards in the preview. The goal is to reproduce it without text editor library.",
+      "href": "https://craft.mxkaske.dev/post/fancy-area"
+    },
+    {
+      "h1": "password-input",
+      "p": " shadcn/ui custom password input.",
+      "href": "https://gist.github.com/mjbalcueva/b21f39a8787e558d4c536bf68e267398"
+    },
+    {
+      "h1": "Phone input number component with Shadcn UI",
+      "p": "Custom phone number component built with shadcn/ui.",
+      "href": "https://www.armand-salle.fr/post/phone-input-shadcn-ui/"
+    },
+    {
+      "h1": "search-address",
+      "p": " The SearchAddress component provides a flexible and interactive search interface for addresses, utilizing the powerful Nominatim service from OpenStreetMap.",
+      "href": "https://github.com/UretzkyZvi/search-address"
+    },
+    {
+      "h1": "shadcn-address-autocomplete",
+      "p": " An address autocomplete component built with Google Places API and shadcn components.",
+      "href": "https://github.com/NiazMorshed2007/shadcn-address-autocomplete"
+    },
+    {
+      "h1": "shadcn-phone-input-2",
+      "p": "Simple and formatted phone input component built with shadcn/ui y libphonenumber-js.",
+      "href": "https://github.com/damianricobelli/shadcn-phone-input"
+    },
+    {
+      "h1": "shadcn-phone-input",
+      "p": " Customizable phone input component with proper validation for any country.",
+      "href": "https://github.com/omeralpi/shadcn-phone-input"
+    }
+  ],
+  "dialog": [
+    {
+      "h1": "React Confirm Dialog",
+      "p": " A confirm dialog component built with shadcn/ui.",
+      "href": "https://github.com/Aslam97/react-confirm-dialog"
+    },
+    {
+      "h1": "credenza ",
+      "p": "  Ready-made responsive modal component for shadcn/ui.",
+      "href": "https://github.com/redpangilinan/credenza"
+    }
+  ],
+
+  "dropdown": [
+    {
+      "h1": "country-state-dropdown",
+      "p": "This Component is built with Nextjs, Tailwindcss, shadcn/ui & Zustand for state management.",
+      "href": "https://github.com/Jayprecode/country-state-dropdown.git"
+    }
+  ],
+  "charts": [
+    {
+      "h1": "crypto-charts",
+      "p": "Crypto charts made for shadcn/ui using PythNetwork.",
+      "href": "https://github.com/jstnw10/crypto-charts"
+    }
+  ],
+  "date-picker": [
+    {
+      "h1": "Date Range Picker Component",
+      "p": "DateRangePicker is a reusable component for shadcn using Radix UI and Tailwind CSS. Includes preset date ranges, text entry, calendar selection and date comparison",
+      "href": "https://github.com/johnpolacek/date-range-picker-for-shadcn"
+    },
+    {
+      "h1": "DateRangePicker Component",
+      "p": "Beautifully crafted datetime picker component using shadcn ui",
+      "href": "https://github.com/Maliksidk19/shadcn-datetime-picker"
+    },
+    {
+      "h1": "Lingua Time",
+      "p": "A smart datetime picker which understands natural language input.",
+      "href": "https://github.com/nainglinnkhant/lingua-time"
+    },
+    {
+      "h1": "Lingua Time",
+      "p": " Advanced date picker with range selection, year and month selection, and more.",
+      "href": "https://date-picker.luca-felix.com/"
+    },
+    {
+      "h1": "time-picker",
+      "p": "A simple TimePicker for your shadcn/ui project.",
+      "href": "https://github.com/openstatusHQ/time-picker"
+    }
+  ],
+  "combobox": [
+    {
+      "h1": "Shadcn/ui Combobox",
+      "p": "Combobox/autocomplete component built with shadcn/ui and Downshift.",
+      "href": "https://github.com/TheOmer77/downshift-shadcn-combobox"
+    },
+    {
+      "h1": "Fancy Box Combobox",
+      "p": "The Combobox is inspired by GitHub's PR label selector and is powered by shadcn/ui. Almost all elements are radix-ui components, styled with tailwindcss.",
+      "href": "https://craft.mxkaske.dev/post/fancy-box"
+    },
+    {
+      "h1": "Shadcn Linear Combobox",
+      "p": "A copy of the combobox that Linear uses to set the priority of a task.",
+      "href": "https://github.com/damianricobelli/shadcn-linear-combobox"
+    }
+  ],
+  "rich-text-editor": [
+    {
+      "h1": "Echo Editor",
+      "p": "A modern WYSIWYG rich-text editor base on tiptap and shadcn/ui.",
+      "href": "https://github.com/Seedsa/echo-editor"
+    },
+    {
+      "h1": "Minimal Tiptap Editor",
+      "p": " A minimal WYSIWYG editor built with shadcn/ui and tiptap.",
+      "href": "https://github.com/Aslam97/shadcn-minimal-tiptap"
+    },
+    {
+      "h1": "Novel",
+      "p": "Novel is a Notion-style WYSIWYG editor with AI-powered autocompletion. Built with Tiptap + Vercel AI SDK.",
+      "href": "https://github.com/steven-tey/novel"
+    },
+    {
+      "h1": "Plate",
+      "p": "The rich-text editor for React.",
+      "href": "https://github.com/udecode/plate"
+    }
+  ],
+  "file-upload": [
+    {
+      "h1": "File Uploader",
+      "p": "A file uploader built with shadcn/ui and react-dropzone.",
+      "href": "https://github.com/sadmann7/file-uploader"
+    },
+    {
+      "h1": "File upload component",
+      "p": " File upload component for React.",
+      "href": "https://github.com/ManishBisht777/file-vault"
+    },
+    {
+      "h1": "Image upload component",
+      "p": "Image upload component built with shadcn/ui.",
+      "href": "https://github.com/kushagrasarathe/image-upload-shadcn"
+    }
+  ],
+  "background": [
+    {
+      "h1": "Ibelick background snippets",
+      "p": "Ready to use collection of modern background snippets.",
+      "href": "https://github.com/ibelick/background-snippets"
+    }
+  ],
+  "email": [
+    {
+      "h1": "maily.to",
+      "p": "Craft beautiful emails effortlessly with Maily, the powerful email editor that ensures impeccable communication across all major clients.",
+      "href": "https://github.com/arikchakma/maily.to"
+    }
+  ],
+  "dnd": [
+    {
+      "h1": "nextjs-dnd ",
+      "p": "Sortable Drag and Drop with Next.js, shadcn/ui, and dnd-kit.",
+      "href": "https://github.com/sujjeee/nextjs-dnd"
+    },
+    {
+      "h1": "react-dnd-kit-tailwind-shadcn-ui",
+      "p": " Drag and drop Accessible kanban board implementing using React, dnd-kit, tailwind, and shadcn/ui.",
+      "href": "https://github.com/Georgegriff/react-dnd-kit-tailwind-shadcn-ui"
+    }
+  ],
+  "pagination": [
+    {
+      "h1": "Shadcn Nextjs Link Pagination",
+      "p": "shadcn paging/pagination that uses Nextjs Links and search params",
+      "href": "https://github.com/bryaneaton13/shadcn-next-link-pagination"
+    }
+  ],
+  "payment": [
+    {
+      "h1": "payment-gateways",
+      "p": "This repository demonstrates how to integrate popular payment gateways like Stripe, Razorpay, PayPal, and Coinbase into a web application using Next.js 14.",
+      "href": "https://github.com/PremPrakashCodes/payment-gateways"
+    }
+  ],
+  "calender": [
+    {
+      "h1": "planner",
+      "p": "Planner is a highly adaptable scheduling component tailored for React applications.",
+      "href": "https://github.com/UretzkyZvi/planner"
+    },
+    {
+      "h1": "shadcn-cal-com",
+      "p": "Planner is a highly adaptable scheduling component tailored for React applications.",
+      "href": "https://github.com/UretzkyZvi/planner"
+    },
+    {
+      "h1": "shadcn-cal",
+      "p": "A copy of the monthly calendar used by Cal.com with shadcn/ui, Radix Colors and React Aria.",
+      "href": "https://shadcn-cal-com.vercel.app/?date=2024-04-29"
+    },
+    {
+      "h1": "shadcn-calendar-heatmap",
+      "p": " Modern alternative to primitive react heatmaps built on top of shadcn/ui calendar component.",
+      "href": "https://shadcn-calendar-heatmap.vercel.app/"
+    },
+    {
+      "h1": "shadcn-calendar-component",
+      "p": " A calendar date picker component designed with shadcn/ui.",
+      "href": "https://github.com/sersavan/shadcn-calendar-component"
+    }
+  ],
+  "card": [
+    {
+      "h1": "Pricing Page made with Shadcn UI",
+      "p": " Pricing Page made with shadcn/ui & Next.js 14. Completely customizable.",
+      "href": "https://github.com/m4nute/pricing-page-shadcn"
+    }
+  ],
+  "carousel": [
+    {
+      "h1": "shadcn-carousel-testimonials",
+      "p": "shadcn UI Carousel Testimonials.",
+      "href": "https://github.com/johanguse/shadcn-carousel-testimonials"
+    }
+  ],
+  "table": [
+    {
+      "h1": "shadcn-data-table-resize-columns",
+      "p": " Column-resizing option to shadcn/ui DataTable.",
+      "href": "https://github.com/danielagg/shadcn-data-table-resize-columns"
+    },
+    {
+      "h1": "shadcn-drag-table",
+      "p": "https://github.com/zenoncao/shadcn-drag-table",
+      "href": "https://github.com/zenoncao/shadcn-drag-table"
+    },
+    {
+      "h1": "shadcn-table-v2",
+      "p": "shadcn/ui table component with server-side sorting, filtering, and pagination.",
+      "href": "https://github.com/sadmann7/shadcn-table"
+    }
+  ],
+  "images": [
+    {
+      "h1": "shadcn-image-cropper",
+      "p": "A minimal image cropper UI built with shadcn and the react-image-crop library!",
+      "href": "https://github.com/sujjeee/shadcn-image-cropper"
+    }
+  ]
+}

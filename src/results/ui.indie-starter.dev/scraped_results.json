@@ -1,0 +1,107 @@
+[
+    {
+        "h1": "Quick Setup",
+        "p": "",
+        "href": "https://ui.indie-starter.dev/docs"
+    },
+    {
+        "h1": "Changelog",
+        "p": "",
+        "href": "https://ui.indie-starter.dev/docs/changelog"
+    },
+    {
+        "h1": "Simple Cards",
+        "p": "",
+        "href": "https://ui.indie-starter.dev/docs/cards-simple"
+    },
+    {
+        "h1": "Multilayers Cards",
+        "p": "",
+        "href": "https://ui.indie-starter.dev/docs/cards-multi-layers"
+    },
+    {
+        "h1": "Card with image & text",
+        "p": "",
+        "href": "https://ui.indie-starter.dev/docs/cards-with-image-bg"
+    },
+    {
+        "h1": "Cards with Pattern",
+        "p": "",
+        "href": "https://ui.indie-starter.dev/docs/cards-with-pattern"
+    },
+    {
+        "h1": "Interactive Cards",
+        "p": "",
+        "href": "https://ui.indie-starter.dev/docs/cards-interactive"
+    },
+    {
+        "h1": "Base Button",
+        "p": "",
+        "href": "https://ui.indie-starter.dev/docs/base-button"
+    },
+    {
+        "h1": "Buttons variants",
+        "p": "",
+        "href": "https://ui.indie-starter.dev/docs/buttons"
+    },
+    {
+        "h1": "Eye-catching buttons",
+        "p": "",
+        "href": "https://ui.indie-starter.dev/docs/eye-catching-buttons"
+    },
+    {
+        "h1": "Stateful Buttons",
+        "p": "",
+        "href": "https://ui.indie-starter.dev/docs/stateful-buttons"
+    },
+    {
+        "h1": "Bento Grid with 4 cells",
+        "p": "",
+        "href": "https://ui.indie-starter.dev/docs/bento-4"
+    },
+    {
+        "h1": "Bento Grid with 5 cells",
+        "p": "",
+        "href": "https://ui.indie-starter.dev/docs/bento-5"
+    },
+    {
+        "h1": "Bento 6",
+        "p": "",
+        "href": "https://ui.indie-starter.dev/docs/bento-6"
+    },
+    {
+        "h1": "Skeleton",
+        "p": "",
+        "href": "https://ui.indie-starter.dev/docs/skeleton"
+    },
+    {
+        "h1": "Loader Dots",
+        "p": "",
+        "href": "https://ui.indie-starter.dev/docs/loader-dots"
+    },
+    {
+        "h1": "Text animation with Framer Motion",
+        "p": "",
+        "href": "https://ui.indie-starter.dev/docs/text-animation"
+    },
+    {
+        "h1": "Counter",
+        "p": "",
+        "href": "https://ui.indie-starter.dev/docs/counter"
+    },
+    {
+        "h1": "Reusable header component",
+        "p": "",
+        "href": "https://ui.indie-starter.dev/docs/header"
+    },
+    {
+        "h1": "Separator",
+        "p": "",
+        "href": "https://ui.indie-starter.dev/docs/separator"
+    },
+    {
+        "h1": "Input block",
+        "p": "",
+        "href": "https://ui.indie-starter.dev/docs/inputs"
+    }
+]

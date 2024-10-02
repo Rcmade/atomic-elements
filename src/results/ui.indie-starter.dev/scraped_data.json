@@ -1,0 +1,86 @@
+[
+    {
+        "text": "Setup",
+        "href": "/docs"
+    },
+    {
+        "text": "Changelog",
+        "href": "/docs/changelog"
+    },
+    {
+        "text": "Simple",
+        "href": "/docs/cards-simple"
+    },
+    {
+        "text": "Multi layers",
+        "href": "/docs/cards-multi-layers"
+    },
+    {
+        "text": "With image",
+        "href": "/docs/cards-with-image-bg"
+    },
+    {
+        "text": "With pattern",
+        "href": "/docs/cards-with-pattern"
+    },
+    {
+        "text": "Interactive",
+        "href": "/docs/cards-interactive"
+    },
+    {
+        "text": "Base",
+        "href": "/docs/base-button"
+    },
+    {
+        "text": "Simple",
+        "href": "/docs/buttons"
+    },
+    {
+        "text": "Eye catching",
+        "href": "/docs/eye-catching-buttons"
+    },
+    {
+        "text": "Stateful",
+        "href": "/docs/stateful-buttons"
+    },
+    {
+        "text": "Bento Grid (4 cells)",
+        "href": "/docs/bento-4"
+    },
+    {
+        "text": "Bento Grid (5 cells)",
+        "href": "/docs/bento-5"
+    },
+    {
+        "text": "Bento Grid (6 cells)",
+        "href": "/docs/bento-6"
+    },
+    {
+        "text": "Skeleton",
+        "href": "/docs/skeleton"
+    },
+    {
+        "text": "Dots",
+        "href": "/docs/loader-dots"
+    },
+    {
+        "text": "Text",
+        "href": "/docs/text-animation"
+    },
+    {
+        "text": "Counter",
+        "href": "/docs/counter"
+    },
+    {
+        "text": "Header",
+        "href": "/docs/header"
+    },
+    {
+        "text": "Separator",
+        "href": "/docs/separator"
+    },
+    {
+        "text": "Inputs",
+        "href": "/docs/inputs"
+    }
+]

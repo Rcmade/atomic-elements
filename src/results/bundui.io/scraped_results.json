@@ -1,0 +1,42 @@
+[
+    {
+        "h1": "Button",
+        "p": "An animated button component to enhance your app's user experience and interactivity. This example was made with Tailwind CSS and Framer Motion.",
+        "href": "https://bundui.io/docs/components/button"
+    },
+    {
+        "h1": "Animated Gradient Text",
+        "p": "Animated gradient text is a UI component designed to be visually striking and engaging. As the user reads the text, the colors smoothly transition, creating a dynamic and captivating effect compared to static text. This type of text is especially effective when used for headings or important highlights, enhancing interaction and adding a modern touch to the user experience. This example was created using Tailwind CSS.",
+        "href": "https://bundui.io/docs/components/animated-gradient-text"
+    },
+    {
+        "h1": "Count Animation",
+        "p": "The count animation component is designed to create a captivating user experience by animating numerical values as they increase or decrease. This effect draws the user's attention to important data, making the information more dynamic and engaging. Whether it's displaying statistics, financial figures, or progress counters, the smooth animation of numbers adds a sense of liveliness and interactivity to your interface. This example was created using Tailwind CSS and Framer Motion.",
+        "href": "https://bundui.io/docs/components/count-animation"
+    },
+    {
+        "h1": "Floating Button",
+        "p": "A floating button is a common UI component used in user interfaces. It typically appears as a button \"floating\" over other content, often positioned in a corner of the screen. This button allows users to quickly perform a key action. It is also known as a Floating Action Button (FAB).",
+        "href": "https://bundui.io/docs/components/floating-button"
+    },
+    {
+        "h1": "Magnetic Button",
+        "p": "A Magnetic Button is a UI component designed to enhance user interaction. When a user's cursor or touch input approaches the button, it subtly moves towards the user, simulating the effect of magnetic attraction. This interaction makes the button more enticing to click and adds a dynamic and engaging element to the user experience. This example was made with Tailwind CSS and Framer Motion.",
+        "href": "https://bundui.io/docs/components/magnetic-button"
+    },
+    {
+        "h1": "Text Gradient Scroll",
+        "p": "The text gradient scroll component is designed to enhance user interaction by providing a visually dynamic effect as the user scrolls through the text. Unlike static text, this effect offers a more engaging visual experience with smooth color transitions that change as the text is scrolled. The animated gradient shifts add a modern and interactive touch to the user experience. This example was created using Tailwind CSS and Framer Motion.",
+        "href": "https://bundui.io/docs/components/text-gradient-scroll"
+    },
+    {
+        "h1": "Scroll Progress Bar",
+        "p": "The Scroll Progress Bar component enhances user experience by providing a visually dynamic indicator as the user scrolls through the page. It visually informs users how much of the page has been scrolled, making it especially useful for longer content. Unlike static progress bars, this animated indicator offers a more modern and interactive experience. The scroll bar can be configured as a circular or linear bar and can be positioned in specific corners of the page, such as the bottom-right or top-left. Built using Framer Motion and Tailwind CSS, the Scroll Progress Bar ensures smooth transitions and an aesthetically pleasing design.",
+        "href": "https://bundui.io/docs/components/scroll-progress-bar"
+    },
+    {
+        "h1": "Marquee Effect",
+        "p": "The marquee component is designed to create a dynamic user experience by continuously scrolling text horizontally. This effect is perfect for highlighting important information, announcements, or news headlines that need to catch the user's attention. The smooth scrolling animation adds movement and liveliness to the interface, making important content more noticeable to users. This example was created using Tailwind CSS and Framer Motion.",
+        "href": "https://bundui.io/docs/components/marquee-effect"
+    }
+]

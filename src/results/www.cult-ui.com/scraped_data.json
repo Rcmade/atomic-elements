@@ -1,0 +1,98 @@
+[
+    {
+        "text": "Animated Number",
+        "href": "/docs/components/animated-number"
+    },
+    {
+        "text": "Bg Animate Button",
+        "href": "/docs/components/bg-animate-button"
+    },
+    {
+        "text": "Bg Media Hero",
+        "href": "/docs/components/bg-media"
+    },
+    {
+        "text": "Color Pickernew",
+        "href": "/docs/components/color-picker"
+    },
+    {
+        "text": "Direction Aware Tabs",
+        "href": "/docs/components/direction-aware-tabs"
+    },
+    {
+        "text": "Dynamic Island",
+        "href": "/docs/components/dynamic-island"
+    },
+    {
+        "text": "Family Button",
+        "href": "/docs/components/family-button"
+    },
+    {
+        "text": "Floating Panelnew",
+        "href": "/docs/components/floating-panel"
+    },
+    {
+        "text": "Gradient Heading",
+        "href": "/docs/components/gradient-heading"
+    },
+    {
+        "text": "Minimal Card",
+        "href": "/docs/components/minimal-card"
+    },
+    {
+        "text": "Popovernew",
+        "href": "/docs/components/popover"
+    },
+    {
+        "text": "Shift Card",
+        "href": "/docs/components/shift-card"
+    },
+    {
+        "text": "Side Panel",
+        "href": "/docs/components/side-panel"
+    },
+    {
+        "text": "Sortable Listnew",
+        "href": "/docs/components/sortable-list"
+    },
+    {
+        "text": "Text Animate",
+        "href": "/docs/components/text-animate"
+    },
+    {
+        "text": "Texture Button",
+        "href": "/docs/components/texture-button"
+    },
+    {
+        "text": "Texture Card",
+        "href": "/docs/components/texture-card"
+    },
+    {
+        "text": "3D Carousel",
+        "href": "/docs/components/three-d-carousel"
+    },
+    {
+        "text": "LightBoard",
+        "href": "/docs/components/lightboard"
+    },
+    {
+        "text": "MacOS Dock",
+        "href": "/docs/components/dock"
+    },
+    {
+        "text": "Fractal Gridnew",
+        "href": "/docs/components/bg-animated-fractal-grid"
+    },
+    {
+        "text": "Shader Lens Blurnew",
+        "href": "/docs/components/shader-lens-blur"
+    },
+    {
+        "text": "Tweet Grid",
+        "href": "/docs/components/tweet-grid"
+    },
+    {
+        "text": "Typewriter",
+        "href": "/docs/components/typewriter"
+    }
+]

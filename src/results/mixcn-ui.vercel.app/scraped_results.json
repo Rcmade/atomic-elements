@@ -1,0 +1,17 @@
+[
+    {
+        "h1": "Carousel",
+        "p": "This is a carousel component support all embla carousel features.",
+        "href": "https://mixcn-ui.vercel.app/docs/custom/carousel"
+    },
+    {
+        "h1": "Hacker Button",
+        "p": "Randomize text on click with vue with tailwindcss.",
+        "href": "https://mixcn-ui.vercel.app/docs/custom/hackerbutton"
+    },
+    {
+        "h1": "Text Rotator",
+        "p": "Text Rotator with tailwindcss.",
+        "href": "https://mixcn-ui.vercel.app/docs/custom/textrotator"
+    }
+]

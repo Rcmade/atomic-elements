@@ -1,0 +1,282 @@
+[
+    {
+        "text": "3D Card Effect",
+        "href": "/components/3d-card-effect"
+    },
+    {
+        "text": "3D Pin",
+        "href": "/components/3d-pin"
+    },
+    {
+        "text": "Animated Modal",
+        "href": "/components/animated-modal"
+    },
+    {
+        "text": "Animated Tooltip",
+        "href": "/components/animated-tooltip"
+    },
+    {
+        "text": "Apple Cards Carousel",
+        "href": "/components/apple-cards-carousel"
+    },
+    {
+        "text": "Aurora Background",
+        "href": "/components/aurora-background"
+    },
+    {
+        "text": "Background Beams",
+        "href": "/components/background-beams"
+    },
+    {
+        "text": "Background Beams With CollisionNew",
+        "href": "/components/background-beams-with-collision"
+    },
+    {
+        "text": "Background Boxes",
+        "href": "/components/background-boxes"
+    },
+    {
+        "text": "Background Gradient",
+        "href": "/components/background-gradient"
+    },
+    {
+        "text": "Background Lines",
+        "href": "/components/background-lines"
+    },
+    {
+        "text": "Bento Grid",
+        "href": "/components/bento-grid"
+    },
+    {
+        "text": "Canvas Reveal Effect",
+        "href": "/components/canvas-reveal-effect"
+    },
+    {
+        "text": "Card Hover Effect",
+        "href": "/components/card-hover-effect"
+    },
+    {
+        "text": "Card Spotlight",
+        "href": "/components/card-spotlight"
+    },
+    {
+        "text": "Card Stack",
+        "href": "/components/card-stack"
+    },
+    {
+        "text": "Cards",
+        "href": "/components/cards"
+    },
+    {
+        "text": "Compare",
+        "href": "/components/compare"
+    },
+    {
+        "text": "Container Cover",
+        "href": "/components/container-cover"
+    },
+    {
+        "text": "Container Scroll Animation",
+        "href": "/components/container-scroll-animation"
+    },
+    {
+        "text": "Direction Aware Hover",
+        "href": "/components/direction-aware-hover"
+    },
+    {
+        "text": "Evervault Card",
+        "href": "/components/evervault-card"
+    },
+    {
+        "text": "Expandable Card",
+        "href": "/components/expandable-card"
+    },
+    {
+        "text": "Feature sections",
+        "href": "/components/feature-sections"
+    },
+    {
+        "text": "File Upload",
+        "href": "/components/file-upload"
+    },
+    {
+        "text": "Flip Words",
+        "href": "/components/flip-words"
+    },
+    {
+        "text": "Floating DockNew",
+        "href": "/components/floating-dock"
+    },
+    {
+        "text": "Floating Navbar",
+        "href": "/components/floating-navbar"
+    },
+    {
+        "text": "Focus Cards",
+        "href": "/components/focus-cards"
+    },
+    {
+        "text": "Following Pointer",
+        "href": "/components/following-pointer"
+    },
+    {
+        "text": "GitHub Globe",
+        "href": "/components/github-globe"
+    },
+    {
+        "text": "Glare Card",
+        "href": "/components/glare-card"
+    },
+    {
+        "text": "Glowing Stars",
+        "href": "/components/glowing-stars-effect"
+    },
+    {
+        "text": "Google Gemini Effect",
+        "href": "/components/google-gemini-effect"
+    },
+    {
+        "text": "Gradient Animation",
+        "href": "/components/background-gradient-animation"
+    },
+    {
+        "text": "Grid and Dot Backgrounds",
+        "href": "/components/grid-and-dot-backgrounds"
+    },
+    {
+        "text": "Hero Highlight",
+        "href": "/components/hero-highlight"
+    },
+    {
+        "text": "Hero Parallax",
+        "href": "/components/hero-parallax"
+    },
+    {
+        "text": "Hover Border Gradient",
+        "href": "/components/hover-border-gradient"
+    },
+    {
+        "text": "Images Slider",
+        "href": "/components/images-slider"
+    },
+    {
+        "text": "Infinite Moving Cards",
+        "href": "/components/infinite-moving-cards"
+    },
+    {
+        "text": "Lamp effect",
+        "href": "/components/lamp-effect"
+    },
+    {
+        "text": "Layout Grid",
+        "href": "/components/layout-grid"
+    },
+    {
+        "text": "LensNew",
+        "href": "/components/lens"
+    },
+    {
+        "text": "Link Preview",
+        "href": "/components/link-preview"
+    },
+    {
+        "text": "Macbook Scroll",
+        "href": "/components/macbook-scroll"
+    },
+    {
+        "text": "Meteors",
+        "href": "/components/meteors"
+    },
+    {
+        "text": "Moving Border",
+        "href": "/components/moving-border"
+    },
+    {
+        "text": "Multi Step Loader",
+        "href": "/components/multi-step-loader"
+    },
+    {
+        "text": "Navbar Menu",
+        "href": "/components/navbar-menu"
+    },
+    {
+        "text": "Parallax Scroll",
+        "href": "/components/parallax-scroll"
+    },
+    {
+        "text": "Placeholders And Vanish Input",
+        "href": "/components/placeholders-and-vanish-input"
+    },
+    {
+        "text": "Shooting Stars",
+        "href": "/components/shooting-stars-and-stars-background"
+    },
+    {
+        "text": "Sidebar",
+        "href": "/components/sidebar"
+    },
+    {
+        "text": "Signup Form",
+        "href": "/components/signup-form"
+    },
+    {
+        "text": "Sparkles",
+        "href": "/components/sparkles"
+    },
+    {
+        "text": "Spotlight",
+        "href": "/components/spotlight"
+    },
+    {
+        "text": "Sticky Scroll Reveal",
+        "href": "/components/sticky-scroll-reveal"
+    },
+    {
+        "text": "SVG Mask Effect",
+        "href": "/components/svg-mask-effect"
+    },
+    {
+        "text": "Tabs",
+        "href": "/components/tabs"
+    },
+    {
+        "text": "Tailwind CSS buttons",
+        "href": "/components/tailwindcss-buttons"
+    },
+    {
+        "text": "Text Generate Effect",
+        "href": "/components/text-generate-effect"
+    },
+    {
+        "text": "Text Hover EffectNew",
+        "href": "/components/text-hover-effect"
+    },
+    {
+        "text": "Text Reveal Card",
+        "href": "/components/text-reveal-card"
+    },
+    {
+        "text": "TimelineNew",
+        "href": "/components/timeline"
+    },
+    {
+        "text": "Tracing Beam",
+        "href": "/components/tracing-beam"
+    },
+    {
+        "text": "Typewriter Effect",
+        "href": "/components/typewriter-effect"
+    },
+    {
+        "text": "Vortex",
+        "href": "/components/vortex"
+    },
+    {
+        "text": "Wavy Background",
+        "href": "/components/wavy-background"
+    },
+    {
+        "text": "Wobble Card",
+        "href": "/components/wobble-card"
+    }
+]

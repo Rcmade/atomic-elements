@@ -1,0 +1,478 @@
+[
+    {
+        "text": "Accordion",
+        "href": "/docs/components/accordion"
+    },
+    {
+        "text": "Alert",
+        "href": "/docs/components/alert"
+    },
+    {
+        "text": "Alert Dialog",
+        "href": "/docs/components/alert-dialog"
+    },
+    {
+        "text": "Animated List",
+        "href": "/docs/components/animated-list"
+    },
+    {
+        "text": "Aspect Ratio",
+        "href": "/docs/components/aspect-ratio"
+    },
+    {
+        "text": "Avatar",
+        "href": "/docs/components/avatar"
+    },
+    {
+        "text": "Avatar Circles",
+        "href": "/docs/components/avatar-circles"
+    },
+    {
+        "text": "Badge",
+        "href": "/docs/components/badge"
+    },
+    {
+        "text": "Bento Grid",
+        "href": "/docs/components/bento-grid"
+    },
+    {
+        "text": "Breadcrumb",
+        "href": "/docs/components/breadcrumb"
+    },
+    {
+        "text": "Calendar",
+        "href": "/docs/components/calendar"
+    },
+    {
+        "text": "Card",
+        "href": "/docs/components/card"
+    },
+    {
+        "text": "Carousel",
+        "href": "/docs/components/carousel"
+    },
+    {
+        "text": "Checkbox",
+        "href": "/docs/components/checkbox"
+    },
+    {
+        "text": "Collapsible",
+        "href": "/docs/components/collapsible"
+    },
+    {
+        "text": "Combobox",
+        "href": "/docs/components/combobox"
+    },
+    {
+        "text": "Command",
+        "href": "/docs/components/command"
+    },
+    {
+        "text": "Context Menu",
+        "href": "/docs/components/context-menu"
+    },
+    {
+        "text": "Data Table",
+        "href": "/docs/components/data-table"
+    },
+    {
+        "text": "Date Picker",
+        "href": "/docs/components/date-picker"
+    },
+    {
+        "text": "Dialog",
+        "href": "/docs/components/dialog"
+    },
+    {
+        "text": "Dock",
+        "href": "/docs/components/dock"
+    },
+    {
+        "text": "Drawer",
+        "href": "/docs/components/drawer"
+    },
+    {
+        "text": "Dropdown Menu",
+        "href": "/docs/components/dropdown-menu"
+    },
+    {
+        "text": "Form",
+        "href": "/docs/components/form"
+    },
+    {
+        "text": "Gauge Circle",
+        "href": "/docs/components/gauge-circle"
+    },
+    {
+        "text": "Globe",
+        "href": "/docs/components/globe"
+    },
+    {
+        "text": "Hover Card",
+        "href": "/docs/components/hover-card"
+    },
+    {
+        "text": "Input",
+        "href": "/docs/components/input"
+    },
+    {
+        "text": "Input OTP",
+        "href": "/docs/components/input-otp"
+    },
+    {
+        "text": "Input PhoneNew",
+        "href": "/docs/components/input-phone"
+    },
+    {
+        "text": "Interactive Icon Cloud",
+        "href": "/docs/components/icon-cloud"
+    },
+    {
+        "text": "Label",
+        "href": "/docs/components/label"
+    },
+    {
+        "text": "Marquee",
+        "href": "/docs/components/marquee"
+    },
+    {
+        "text": "Menubar",
+        "href": "/docs/components/menubar"
+    },
+    {
+        "text": "Multi SelectNew",
+        "href": "/docs/components/multi-select"
+    },
+    {
+        "text": "Navigation Menu",
+        "href": "/docs/components/navigation-menu"
+    },
+    {
+        "text": "Orbiting Circles",
+        "href": "/docs/components/orbiting-circles"
+    },
+    {
+        "text": "Pagination",
+        "href": "/docs/components/pagination"
+    },
+    {
+        "text": "Popover",
+        "href": "/docs/components/popover"
+    },
+    {
+        "text": "Progress",
+        "href": "/docs/components/progress"
+    },
+    {
+        "text": "Radio Group",
+        "href": "/docs/components/radio-group"
+    },
+    {
+        "text": "Resizable",
+        "href": "/docs/components/resizable"
+    },
+    {
+        "text": "Scroll Area",
+        "href": "/docs/components/scroll-area"
+    },
+    {
+        "text": "Scroll ProgressNew",
+        "href": "/docs/components/scroll-progress"
+    },
+    {
+        "text": "Scratch To RevealNew",
+        "href": "/docs/components/scratch-to-reveal"
+    },
+    {
+        "text": "Select",
+        "href": "/docs/components/select"
+    },
+    {
+        "text": "Separator",
+        "href": "/docs/components/separator"
+    },
+    {
+        "text": "Sheet",
+        "href": "/docs/components/sheet"
+    },
+    {
+        "text": "Skeleton",
+        "href": "/docs/components/skeleton"
+    },
+    {
+        "text": "SliderNew",
+        "href": "/docs/components/slider"
+    },
+    {
+        "text": "Sonner",
+        "href": "/docs/components/sonner"
+    },
+    {
+        "text": "Star RatingNew",
+        "href": "/docs/components/star-rating"
+    },
+    {
+        "text": "StepperNew",
+        "href": "/docs/components/stepper"
+    },
+    {
+        "text": "Switch",
+        "href": "/docs/components/switch"
+    },
+    {
+        "text": "Table",
+        "href": "/docs/components/table"
+    },
+    {
+        "text": "Tabs",
+        "href": "/docs/components/tabs"
+    },
+    {
+        "text": "Textarea",
+        "href": "/docs/components/textarea"
+    },
+    {
+        "text": "TimelineNew",
+        "href": "/docs/components/timeline"
+    },
+    {
+        "text": "Toast",
+        "href": "/docs/components/toast"
+    },
+    {
+        "text": "TOCNew",
+        "href": "/docs/components/toc"
+    },
+    {
+        "text": "Toggle",
+        "href": "/docs/components/toggle"
+    },
+    {
+        "text": "Toggle Group",
+        "href": "/docs/components/toggle-group"
+    },
+    {
+        "text": "Tooltip",
+        "href": "/docs/components/tooltip"
+    },
+    {
+        "text": "TourNew",
+        "href": "/docs/components/tour"
+    },
+    {
+        "text": "Tweet Card",
+        "href": "/docs/components/tweet-card"
+    },
+    {
+        "text": "Video ModalNew",
+        "href": "/docs/components/video-modal"
+    },
+    {
+        "text": "Marquee",
+        "href": "/docs/components/marquee"
+    },
+    {
+        "text": "Bento Grid",
+        "href": "/docs/components/bento-grid"
+    },
+    {
+        "text": "Animated List",
+        "href": "/docs/components/animated-list"
+    },
+    {
+        "text": "Dock",
+        "href": "/docs/components/dock"
+    },
+    {
+        "text": "Globe",
+        "href": "/docs/components/globe"
+    },
+    {
+        "text": "Tweet Card",
+        "href": "/docs/components/tweet-card"
+    },
+    {
+        "text": "Orbiting Circles",
+        "href": "/docs/components/orbiting-circles"
+    },
+    {
+        "text": "Avatar Circles",
+        "href": "/docs/components/avatar-circles"
+    },
+    {
+        "text": "Interactive Icon Cloud",
+        "href": "/docs/components/icon-cloud"
+    },
+    {
+        "text": "Animated Circular Progress Bar",
+        "href": "/docs/components/animated-circular-progress-bar"
+    },
+    {
+        "text": "Animated Beam",
+        "href": "/docs/components/animated-beam"
+    },
+    {
+        "text": "Border Beam",
+        "href": "/docs/components/border-beam"
+    },
+    {
+        "text": "Shine Border",
+        "href": "/docs/components/shine-border"
+    },
+    {
+        "text": "Magic Card",
+        "href": "/docs/components/magic-card"
+    },
+    {
+        "text": "Meteors",
+        "href": "/docs/components/meteors"
+    },
+    {
+        "text": "Neon Gradient Card",
+        "href": "/docs/components/neon-gradient-card"
+    },
+    {
+        "text": "Confetti",
+        "href": "/docs/components/confetti"
+    },
+    {
+        "text": "Particles",
+        "href": "/docs/components/particles"
+    },
+    {
+        "text": "Cool Mode",
+        "href": "/docs/components/cool-mode"
+    },
+    {
+        "text": "Blur FadeNew",
+        "href": "/docs/components/blur-fade"
+    },
+    {
+        "text": "File TreeNew",
+        "href": "/docs/components/file-tree"
+    },
+    {
+        "text": "Number Ticker",
+        "href": "/docs/components/number-ticker"
+    },
+    {
+        "text": "Animated Shiny Text",
+        "href": "/docs/components/animated-shiny-text"
+    },
+    {
+        "text": "Animated Gradient Text",
+        "href": "/docs/components/animated-gradient-text"
+    },
+    {
+        "text": "Text Reveal",
+        "href": "/docs/components/text-reveal"
+    },
+    {
+        "text": "Word Rotate",
+        "href": "/docs/components/word-rotate"
+    },
+    {
+        "text": "Typing Animation",
+        "href": "/docs/components/typing-animation"
+    },
+    {
+        "text": "Wavy Text",
+        "href": "/docs/components/wavy-text"
+    },
+    {
+        "text": "Blur In",
+        "href": "/docs/components/blur-in"
+    },
+    {
+        "text": "Separate Away",
+        "href": "/docs/components/separate-away"
+    },
+    {
+        "text": "Scroll Based Velocity",
+        "href": "/docs/components/scroll-based-velocity"
+    },
+    {
+        "text": "Letter Pullup",
+        "href": "/docs/components/letter-pullup"
+    },
+    {
+        "text": "Word Pull Up",
+        "href": "/docs/components/word-pull-up"
+    },
+    {
+        "text": "Flip Text",
+        "href": "/docs/components/flip-text"
+    },
+    {
+        "text": "Gradual Spacing",
+        "href": "/docs/components/gradual-spacing"
+    },
+    {
+        "text": "Word Fade In",
+        "href": "/docs/components/word-fade-in"
+    },
+    {
+        "text": "Fade Text",
+        "href": "/docs/components/fade-text"
+    },
+    {
+        "text": "Box Reveal",
+        "href": "/docs/components/box-reveal"
+    },
+    {
+        "text": "Sparkles Text",
+        "href": "/docs/components/sparkles-text"
+    },
+    {
+        "text": "Standard Button",
+        "href": "/docs/components/button"
+    },
+    {
+        "text": "Shimmer Button",
+        "href": "/docs/components/shimmer-button"
+    },
+    {
+        "text": "Shiny Button",
+        "href": "/docs/components/shiny-button"
+    },
+    {
+        "text": "Animated Subscribe Button",
+        "href": "/docs/components/animated-subscribe-button"
+    },
+    {
+        "text": "Pulsating ButtonNew",
+        "href": "/docs/components/pulsating-button"
+    },
+    {
+        "text": "Animated Grid Pattern",
+        "href": "/docs/components/animated-grid-pattern"
+    },
+    {
+        "text": "Retro Grid",
+        "href": "/docs/components/retro-grid"
+    },
+    {
+        "text": "Ripple",
+        "href": "/docs/components/ripple"
+    },
+    {
+        "text": "Dot Pattern",
+        "href": "/docs/components/dot-pattern"
+    },
+    {
+        "text": "Grid Pattern",
+        "href": "/docs/components/grid-pattern"
+    },
+    {
+        "text": "Linear Gradient",
+        "href": "/docs/components/linear-gradient"
+    },
+    {
+        "text": "Radial Gradient",
+        "href": "/docs/components/radial-gradient"
+    },
+    {
+        "text": "Wavy Dot Pattern",
+        "href": "/docs/components/wavy-dot-pattern"
+    }
+]

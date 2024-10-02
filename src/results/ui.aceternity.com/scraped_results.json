@@ -1,0 +1,352 @@
+[
+    {
+        "h1": "3D Card Effect",
+        "p": "A card perspective effect, hover over the card to elevate card elements.",
+        "href": "https://ui.aceternity.com/components/3d-card-effect"
+    },
+    {
+        "h1": "3D Animated Pin",
+        "p": "A gradient pin that animates on hover, perfect for product links.",
+        "href": "https://ui.aceternity.com/components/3d-pin"
+    },
+    {
+        "h1": "Animated Modal",
+        "p": "A customizable, compound modal component with animated transitions",
+        "href": "https://ui.aceternity.com/components/animated-modal"
+    },
+    {
+        "h1": "Animated Tooltip",
+        "p": "A cool tooltip that reveals on hover, follows mouse pointer",
+        "href": "https://ui.aceternity.com/components/animated-tooltip"
+    },
+    {
+        "h1": "Apple Cards Carousel",
+        "p": "A sleek and minimal carousel implementation, as seen on apple.com",
+        "href": "https://ui.aceternity.com/components/apple-cards-carousel"
+    },
+    {
+        "h1": "Aurora Background",
+        "p": "A subtle Aurora or Southern Lights background for your website.",
+        "href": "https://ui.aceternity.com/components/aurora-background"
+    },
+    {
+        "h1": "Background Beams",
+        "p": "Multiple background beams that follow a path of SVG, makes a good hero section background.",
+        "href": "https://ui.aceternity.com/components/background-beams"
+    },
+    {
+        "h1": "Background Beams With Collision",
+        "p": "Exploding beams in the background",
+        "href": "https://ui.aceternity.com/components/background-beams-with-collision"
+    },
+    {
+        "h1": "Background Boxes",
+        "p": "A full width background box container that highlights on hover",
+        "href": "https://ui.aceternity.com/components/background-boxes"
+    },
+    {
+        "h1": "Background Gradient",
+        "p": "An animated gradient that sits at the background of a card, button or anything.",
+        "href": "https://ui.aceternity.com/components/background-gradient"
+    },
+    {
+        "h1": "Background Lines",
+        "p": "A set of svg paths that animate in a wave pattern. Good for hero sections background, as seen on height.app",
+        "href": "https://ui.aceternity.com/components/background-lines"
+    },
+    {
+        "h1": "Bento Grid",
+        "p": "A skewed grid layout with Title, description and a header component",
+        "href": "https://ui.aceternity.com/components/bento-grid"
+    },
+    {
+        "h1": "Canvas Reveal Effect",
+        "p": "A dot background that expands on hover, as seen on Clerk's website",
+        "href": "https://ui.aceternity.com/components/canvas-reveal-effect"
+    },
+    {
+        "h1": "Hover Effect",
+        "p": "Hover over the cards and the effect slides to the currently hovered card.",
+        "href": "https://ui.aceternity.com/components/card-hover-effect"
+    },
+    {
+        "h1": "Card Spotlight",
+        "p": "A card component with a spotlight effect revealing a radial gradient background",
+        "href": "https://ui.aceternity.com/components/card-spotlight"
+    },
+    {
+        "h1": "Card Stack",
+        "p": "Cards stack on top of each other after some interval. Perfect for showing testimonials.",
+        "href": "https://ui.aceternity.com/components/card-stack"
+    },
+    {
+        "h1": "Cards",
+        "p": "A set of cards that can be used for different use cases",
+        "href": "https://ui.aceternity.com/components/cards"
+    },
+    {
+        "h1": "Compare",
+        "p": "A comparison component between two images, slide or drag to compare",
+        "href": "https://ui.aceternity.com/components/compare"
+    },
+    {
+        "h1": "Cover",
+        "p": "A Cover component that wraps any children, providing beams and space effect, hover to reveal speed.",
+        "href": "https://ui.aceternity.com/components/container-cover"
+    },
+    {
+        "h1": "Container Scroll Animation",
+        "p": "A scroll animation that rotates in 3d on scroll. Perfect for hero or marketing sections.",
+        "href": "https://ui.aceternity.com/components/container-scroll-animation"
+    },
+    {
+        "h1": "Direction Aware Hover",
+        "p": "A direction aware hover effect using Framer Motion, Tailwindcss and good old javascript.",
+        "href": "https://ui.aceternity.com/components/direction-aware-hover"
+    },
+    {
+        "h1": "Evervault Card",
+        "p": "A cool card with amazing hover effect, reveals encrypted text and a mixed gradient.",
+        "href": "https://ui.aceternity.com/components/evervault-card"
+    },
+    {
+        "h1": "Expandable Cards",
+        "p": "Click cards to expand them and show additional information",
+        "href": "https://ui.aceternity.com/components/expandable-card"
+    },
+    {
+        "h1": "Feature Sections",
+        "p": "A set of feature sections ranging from bento grids to simple layouts",
+        "href": "https://ui.aceternity.com/components/feature-sections"
+    },
+    {
+        "h1": "File Upload",
+        "p": "A minimal file upload form with background grid, drag and drop, and micro interactions.",
+        "href": "https://ui.aceternity.com/components/file-upload"
+    },
+    {
+        "h1": "Flip Words",
+        "p": "A component that flips through a list of words",
+        "href": "https://ui.aceternity.com/components/flip-words"
+    },
+    {
+        "h1": "Floating Dock",
+        "p": "A floating dock mac os style component, acts as a navigation bar.",
+        "href": "https://ui.aceternity.com/components/floating-dock"
+    },
+    {
+        "h1": "Floating Navbar",
+        "p": "A sticky Navbar that hides on scroll, reveals when scrolled up.",
+        "href": "https://ui.aceternity.com/components/floating-navbar"
+    },
+    {
+        "h1": "Focus Cards",
+        "p": "Hover over the card to focus on it, blurring the rest of the cards.",
+        "href": "https://ui.aceternity.com/components/focus-cards"
+    },
+    {
+        "h1": "Following Pointer",
+        "p": "A custom pointer that follows mouse arrow and animates in pointer and content.",
+        "href": "https://ui.aceternity.com/components/following-pointer"
+    },
+    {
+        "h1": "GitHub Globe",
+        "p": "A globe animation as seen on GitHub's homepage. Interactive and customizable.",
+        "href": "https://ui.aceternity.com/components/github-globe"
+    },
+    {
+        "h1": "Glare Card",
+        "p": "A glare effect that happens on hover, as seen on Linear's website",
+        "href": "https://ui.aceternity.com/components/glare-card"
+    },
+    {
+        "h1": "Glowing Background Stars Card",
+        "p": "Card background stars that animate on hover and animate anyway",
+        "href": "https://ui.aceternity.com/components/glowing-stars-effect"
+    },
+    {
+        "h1": "Google Gemini Effect",
+        "p": "An effect of SVGs as seen on the Google Gemini Website",
+        "href": "https://ui.aceternity.com/components/google-gemini-effect"
+    },
+    {
+        "h1": "Background Gradient Animation",
+        "p": "A smooth and elegant background gradient animation that changes the gradient position over time.",
+        "href": "https://ui.aceternity.com/components/background-gradient-animation"
+    },
+    {
+        "h1": "Grid and Dot Backgrounds",
+        "p": "A simple grid and dots background to make your sections stand out.",
+        "href": "https://ui.aceternity.com/components/grid-and-dot-backgrounds"
+    },
+    {
+        "h1": "Hero Highlight",
+        "p": "A background effect with a text highlight component, perfect for hero sections.",
+        "href": "https://ui.aceternity.com/components/hero-highlight"
+    },
+    {
+        "h1": "Hero Parallax",
+        "p": "A scroll effect with rotation, translation and opacity animations.",
+        "href": "https://ui.aceternity.com/components/hero-parallax"
+    },
+    {
+        "h1": "Hover Border Gradient",
+        "p": "A hover effect that expands to the entire container with a gradient border.",
+        "href": "https://ui.aceternity.com/components/hover-border-gradient"
+    },
+    {
+        "h1": "Images Slider",
+        "p": "A full page slider with images that can be navigated with the keyboard.",
+        "href": "https://ui.aceternity.com/components/images-slider"
+    },
+    {
+        "h1": "Infinite Moving Cards",
+        "p": "A customizable group of cards that move infinitely in a loop. Made with Framer Motion and Tailwind CSS.",
+        "href": "https://ui.aceternity.com/components/infinite-moving-cards"
+    },
+    {
+        "h1": "Lamp Section Header",
+        "p": "A lamp effect as seen on linear, great for section headers.",
+        "href": "https://ui.aceternity.com/components/lamp-effect"
+    },
+    {
+        "h1": "Layout Grid",
+        "p": "A layout effect that animates the grid item on click, powered by framer motion layout",
+        "href": "https://ui.aceternity.com/components/layout-grid"
+    },
+    {
+        "h1": "Lens",
+        "p": "A lens component to zoom into images, videos, or practically anything.",
+        "href": "https://ui.aceternity.com/components/lens"
+    },
+    {
+        "h1": "Link Preview",
+        "p": "Dynamic link previews for your anchor tags",
+        "href": "https://ui.aceternity.com/components/link-preview"
+    },
+    {
+        "h1": "Macbook Scroll",
+        "p": "Scroll through the page and see the image come out of the screen.",
+        "href": "https://ui.aceternity.com/components/macbook-scroll"
+    },
+    {
+        "h1": "Meteor Effect",
+        "p": "A group of beams in the background of a container, sort of like meteors.",
+        "href": "https://ui.aceternity.com/components/meteors"
+    },
+    {
+        "h1": "Moving Border",
+        "p": "A border that moves around the container. Perfect for making your buttons stand out.",
+        "href": "https://ui.aceternity.com/components/moving-border"
+    },
+    {
+        "h1": "Multi Step Loader",
+        "p": "A step loader for screens that take a lot of time to load.",
+        "href": "https://ui.aceternity.com/components/multi-step-loader"
+    },
+    {
+        "h1": "Navbar Menu",
+        "p": "A navbar menu that animates its children on hover, makes a beautiful bignav",
+        "href": "https://ui.aceternity.com/components/navbar-menu"
+    },
+    {
+        "h1": "Parallax Grid Scroll",
+        "p": "A grid where two columns scroll in oposite directions, giving a parallax effect.",
+        "href": "https://ui.aceternity.com/components/parallax-scroll"
+    },
+    {
+        "h1": "Placeholders And Vanish Input",
+        "p": "Sliding in placeholders and vanish effect of input on submit",
+        "href": "https://ui.aceternity.com/components/placeholders-and-vanish-input"
+    },
+    {
+        "h1": "Shooting Stars and Stars Background",
+        "p": "A shooting star animation on top of a starry background, as seen on figmaplug.in",
+        "href": "https://ui.aceternity.com/components/shooting-stars-and-stars-background"
+    },
+    {
+        "h1": "Sidebar",
+        "p": "Expandable sidebar that expands on hover, mobile responsive and dark mode support",
+        "href": "https://ui.aceternity.com/components/sidebar"
+    },
+    {
+        "h1": "Signup Form",
+        "p": "A customizable form built on top of shadcn's input and label, with a touch of framer motion",
+        "href": "https://ui.aceternity.com/components/signup-form"
+    },
+    {
+        "h1": "Sparkles",
+        "p": "A configurable sparkles component that can be used as a background or as a standalone component.",
+        "href": "https://ui.aceternity.com/components/sparkles"
+    },
+    {
+        "h1": "Spotlight",
+        "p": "A spotlight effect with Tailwind CSS, good for drawing attention to a particular element on the page.",
+        "href": "https://ui.aceternity.com/components/spotlight"
+    },
+    {
+        "h1": "Sticky Scroll Reveal",
+        "p": "A sticky container that sticks while scrolling, text reveals on scroll",
+        "href": "https://ui.aceternity.com/components/sticky-scroll-reveal"
+    },
+    {
+        "h1": "SVG Mask Effect",
+        "p": "A mask reveal effect, hover the cursor over a container to reveal what's underneath.",
+        "href": "https://ui.aceternity.com/components/svg-mask-effect"
+    },
+    {
+        "h1": "Animated Tabs",
+        "p": "Tabs to switch content, click on a tab to check background animation.",
+        "href": "https://ui.aceternity.com/components/tabs"
+    },
+    {
+        "h1": "Tailwind CSS buttons",
+        "p": "A curated list of awesome, battle tested Tailwind CSS buttons components",
+        "href": "https://ui.aceternity.com/components/tailwindcss-buttons"
+    },
+    {
+        "h1": "Text Generate Effect",
+        "p": "A cool text effect that fades in text on page load, one by one.",
+        "href": "https://ui.aceternity.com/components/text-generate-effect"
+    },
+    {
+        "h1": "Text Hover Effect",
+        "p": "A text hover effect that animates and outlines gradient on hover, as seen on x.ai",
+        "href": "https://ui.aceternity.com/components/text-hover-effect"
+    },
+    {
+        "h1": "Text Reveal Card",
+        "p": "Mousemove effect to reveal text content at the bottom of the card.",
+        "href": "https://ui.aceternity.com/components/text-reveal-card"
+    },
+    {
+        "h1": "Timeline",
+        "p": "A timeline component with sticky header and scroll beam follow.",
+        "href": "https://ui.aceternity.com/components/timeline"
+    },
+    {
+        "h1": "Tracing Beam",
+        "p": "A Beam that follows the path of an SVG as the user scrolls. Adjusts beam length with scroll speed.",
+        "href": "https://ui.aceternity.com/components/tracing-beam"
+    },
+    {
+        "h1": "Typewriter Effect",
+        "p": "Text generates as if it is being typed on the screen.",
+        "href": "https://ui.aceternity.com/components/typewriter-effect"
+    },
+    {
+        "h1": "Vortex Background",
+        "p": "A wavy, swirly, vortex background ideal for CTAs and backgrounds.",
+        "href": "https://ui.aceternity.com/components/vortex"
+    },
+    {
+        "h1": "Wavy Background",
+        "p": "A cool background effect with waves that move.",
+        "href": "https://ui.aceternity.com/components/wavy-background"
+    },
+    {
+        "h1": "Wobble Card",
+        "p": "A card effect that translates and scales on mousemove, perfect for feature cards.",
+        "href": "https://ui.aceternity.com/components/wobble-card"
+    }
+]
